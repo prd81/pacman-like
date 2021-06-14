@@ -1,8 +1,10 @@
+# pacman-like
+
 This is a QtCreator based 2D game, inspired by pacman-killer. Made as a part of my graphics course at college.
 
 PS - I haven't played the original pacman. Gameplay may differ!
 
-GAMEPLAY :
+## GAMEPLAY
 
 Initial background has a pond, and a trampoline.
 
@@ -32,7 +34,7 @@ Health bar is displayed in green/red color underground. Score and health are sho
 
 Thus, aim of the game is to maximize the score as much as possible in as much time as possible.
 
-CONTROLS :
+## CONTROLS
 
 Game is grame controlled, with events happening at regular intervals.
 
